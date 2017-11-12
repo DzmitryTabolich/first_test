@@ -26,7 +26,7 @@
             <p class="browsehappy">Вы используете <strong>старую версию</strong> браузера. Пожалуйста <a href="http://windows.microsoft.com">обновите ваш браузер</a>.</p>
         <![endif]-->
 
-   
+<!--   Б-->
     <header id="header" class="light_section">
         <div class="container">
             <div class="row">
